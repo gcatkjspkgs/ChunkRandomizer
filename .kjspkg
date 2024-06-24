@@ -1,0 +1,9 @@
+{
+    "author": "G_cat, Liopyu",
+    "description": "A mini-game script which divides the world into 64x64 (configurable) areas all of which have their own unique properties. Originally made for the KubeCraft SMP",
+    
+    "versions": [10],
+    "modloaders": ["forge"],
+    "dependencies": [],
+    "incompatibilities": []
+}
