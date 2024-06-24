@@ -4,10 +4,10 @@
 
 ## Showcase
 
-![High Pressure](public/highpressure.gif)
-![Something Beneficial](public/somethingbeneficial.gif)
-![The Part Where He Kills You](public/thepartwherehekillsyou.gif)
-![Blind Spot](public/blindspot.gif)
+![High Pressure](/public/highpressure.gif)
+![Something Beneficial](/public/somethingbeneficial.gif)
+![The Part Where He Kills You](/public/thepartwherehekillsyou.gif)
+![Blind Spot](/public/blindspot.gif)
 
 ## Config
 
